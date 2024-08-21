@@ -1,0 +1,9 @@
+$ cd C:\Users\Administrator\Documents\app
+$ git init
+
+
+$ git status 
+
+
+$ git add .
+$ git status 
